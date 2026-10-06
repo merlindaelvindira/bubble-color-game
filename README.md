@@ -1,12 +1,12 @@
 # 🎮 Bubble Color Match Game
 
-A simple 2D color-matching puzzle game built using Python and Pygame. This project showcases basic game loop mechanics, grid algorithms, dynamic UI rendering, and real-time score tracking.
+A simple 2D color-matching puzzle game built using Python and Pygame.
 
 ---
 
 ## 🌟 Features
 
-* **Interactive Grid:** A $5 \times 5$ bubble grid rendered dynamically in real-time.
+* **Interactive Grid:** A 5 x 5 bubble grid rendered dynamically in real-time.
 * **Match Logic:** Detects matching colors and updates scores automatically.
 * **Selection Outline:** Clear visual feedback on the currently selected bubble.
 * **Score Tracking:** Real-time score display banner.
@@ -15,7 +15,7 @@ A simple 2D color-matching puzzle game built using Python and Pygame. This proje
 
 ## 🛠️ Tech Stack & Dependencies
 
-* **Language:** Python 3.x
+* **Language:** Python
 * **Library:** Pygame / Pygame-CE
 * **IDE:** Visual Studio Code
 
